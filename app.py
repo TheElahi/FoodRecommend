@@ -95,3 +95,4 @@ if st.button('Recommend'):
     for i in recommendations:
         st.write(i)
  
+st.balloons()
